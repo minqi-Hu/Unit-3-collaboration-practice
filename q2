@@ -1,0 +1,2 @@
+# when do we use `git pull`?
+we use `git pull` when there is some changes to main,while we was working on another task,it's mostly using during collaboration.
